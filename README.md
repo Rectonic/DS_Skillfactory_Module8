@@ -4,6 +4,6 @@ From the [SkillFactory Data Science course](https://skill.factory.ru/data-scient
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](hhttps://github.com/Rectonic/SF_DS_Projects/tree/master/project_0)
+* [Проект 0. Игра: Угадай число](https://github.com/Rectonic/SF_DS_Projects/tree/master/project_0)
 * [Проект 1. _________](____)
 * [Проект 2. _________](____)
